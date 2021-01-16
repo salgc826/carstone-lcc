@@ -2068,10 +2068,12 @@ ol {
 @media only screen and (max-width: 479px) {
 	.logo-area {
 		padding: 20px 30px 30px;
+		height: 95px;
 	}
 	.header-area {
 		background: #121212;
 		padding-right: 66px;
+		height: 95px;
 	}
 	.nav-menu {
 		width: 100%;
